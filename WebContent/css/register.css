@@ -1,0 +1,170 @@
+body {
+    background-color: whitesmoke;
+}
+
+span{
+	color: red;
+}
+
+.email {
+	color: red;
+}
+.password {
+	color: red;
+}
+.rePassword {
+	color: red;
+}
+#container {
+    background-color: #81DAF5;
+    width: 1300px;
+    margin: 0px auto;
+    height: 1011px;
+}
+
+.header {
+    width: 100%;
+    background: url(img/bg_chs.png) top no-repeat center;
+    z-index: 1;
+}
+
+#btnGreen {
+	margin-left: 100px;
+}
+
+#language_box {
+    position: absolute;
+    z-index: 10;
+    right: 50px;
+    top: 75px
+}
+
+
+#content {
+    width: 100%;
+    height: auto;
+}
+
+#content .left-content {
+    float: left;
+    background: url(img/left.png) no-repeat;
+    width: 200px;
+    height: 900px;
+    margin-left: 172px;
+    z-index: 1;
+}
+
+#content .right-content {
+    float: left;
+    width: 650px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 15px;
+    z-index: 1;
+}
+
+#left-content-top {
+    background: url(img/left_2.png);
+    width: 208px;
+    height: 164px;
+}
+
+#searchForm {
+    border: solid #00FA9A;
+    width: auto;
+    height: 45px;
+    background-color: papayawhip;
+    margin: 10px 8px;
+}
+
+#Form2 {
+    background-color: white;
+    width: 610px;
+    height: 700px;
+    margin-top: -20px;
+}
+
+#Form2 h2 {
+    color: #848484;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+#Form2 .register {
+    margin-top: 15px;
+    margin-left: 100px;
+    font-family: "寰蒋闆呴粦";
+    font-size: large;
+    width:400px;
+}
+
+#inputBox {
+    border: solid #00BFFF 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+}
+
+
+#inputBox1_1 {
+    border: solid #00BFFF 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+}
+
+#inputBox1_2 {
+    border: solid #00BFFF 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+}
+
+#inputBox1_3 {
+    border: solid #00BFFF 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+}
+
+#inputBox1_4 {
+    border: solid #00BFFF 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+}
+
+#inputBox2 {
+    border: solid #3F9AD3 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+    height: 30px;
+}
+
+#inputBox3 {
+    border: solid #00BFFF 2px;
+    border-radius: 4px;
+    text-align: left;
+    margin: 5px;
+    padding: 6px 12px;
+    height: 33px;
+}
+
+.btn {
+    cursor: pointer;
+    border: 1px solid transparent;
+    text-align: center;
+    margin: 5px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+

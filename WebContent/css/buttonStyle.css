@@ -1,0 +1,38 @@
+		.btn {
+				cursor: pointer;
+				border: 1px solid transparent;
+				text-align: center;
+				margin: 5px;
+				padding: 6px 12px;
+				font-size: 14px;
+				border-radius: 4px;
+				width:85px;
+				height:40px;
+			}
+			
+			.btn.default {
+				background-color: whitesmoke;
+				color: darkgray;
+				border-color: #ccc;
+			}
+			
+			.btn.green {
+				background-color: limegreen;
+				color: floralwhite;
+				border-color: #ccc;
+			}
+			
+			.btn.green.large {
+				margin-left: 80px;
+				width: 340px;
+				height: 40px;
+			}
+			
+			.btn.blue {
+				background-color: deepskyblue;
+				color: white;
+			}
+			.btn.orange{
+				background-color: orange;
+				color: white;
+			}
